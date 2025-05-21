@@ -41,6 +41,7 @@ pip install -r requirements.txt
 ## 运行
 
 ### 启动 Grounding-DINO 服务
+需要自行下载权重 https://github.com/IDEA-Research/Grounded-Segment-Anything
 
 ```bash
 cd Grounded-Segment-Anything
