@@ -1,7 +1,7 @@
 # LLM4Grasp
 
 LLM4Grasp 是一个基于Multi-Agents和视觉感知的抓取规划框架，结合了多模态感知与机械臂控制
-
+！[image]([https://github.com/DengyingFu/LLM4Grasp/blob/main/sim.png)
 ## 目录结构
 
 - [安装](#安装)
